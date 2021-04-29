@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "my new blog",
+      "body": "lorem ipsum..",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "today party to welcome new you",
+      "body": "lorem ipsum.wq.",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "know what you dont",
+      "body": "lorem ipsum..",
+      "author": "spiderum",
+      "id": 3
+    }
+  ]
+}
